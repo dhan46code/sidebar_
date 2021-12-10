@@ -1,0 +1,11 @@
+.nav-toggle {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 1rem;
+  font-size: 2rem;
+  background: transparent;
+  color: #fff;
+  border: transparent;
+  cursor: pointer;
+}
